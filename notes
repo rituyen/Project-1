@@ -1,3 +1,13 @@
 Different classes we might use:
-deck of cards
+deck of cards (ArrayList)
+  draw random member from array
+  each card defined by string suit and int rank
+  ArrayList of Card objects
+  getDisplayValuve method
 players
+hands
+runs/groups
+discard
+
+go to target score
+drawCard method
