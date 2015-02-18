@@ -3,11 +3,15 @@ deck of cards (ArrayList)
   draw random member from array
   each card defined by string suit and int rank
   ArrayList of Card objects
-  getDisplayValuve method
-players
+  getDisplayValue method
 hands
+  playerHand and computerHand
+  drawCard method
+    randomly generate index for item from deck ArrayList
 runs/groups
-discard
+  have to check if same rank for groups
+  have to compare to first/last items in run and check for same/suit
+discard pile
+  need to display top face-up card in discard, also remember all cards underneath and the order they're in.
 
 go to target score
-drawCard method
