@@ -1,2 +1,2 @@
 # Project-1
-Project 1 code for ITEC 2545
+Alex Carlson starting code for Project 1 for ITEC 2545 at MCTC
