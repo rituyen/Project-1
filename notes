@@ -13,5 +13,10 @@ runs/groups
   have to compare to first/last items in run and check for same/suit
 discard pile
   need to display top face-up card in discard, also remember all cards underneath and the order they're in.
+  use Array/LinkedList in stack method.
 
 go to target score
+
+AI for computer? Prioritize runs, groups, mergers?
+
+UI where user is given a numbered, printed out list of cards in their hand, use index number of cards in hand 
